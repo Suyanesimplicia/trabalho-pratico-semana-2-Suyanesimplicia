@@ -1,2 +1,12 @@
-# trabalho-pratico-semana-2-Suyanesimplicia
-Criação do primeiro currículo WEB.
+@@ -0,0 +1,9 @@
+# template-diw-20251-semana-02
+
+## Informações Gerais
+- Nome: Suyane Simplicia Faria Silva
+- Matricula: 905187
+
+## Print da tela da página criada (Curriculum Vitae)
+
+
+
+
