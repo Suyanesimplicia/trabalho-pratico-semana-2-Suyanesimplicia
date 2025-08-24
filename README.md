@@ -6,7 +6,7 @@
 - Matricula: 905187
 
 ## Print da tela da página criada (Curriculum Vitae)
-
+![Print da página do currículo](./curriculum.png)
 
 
 
